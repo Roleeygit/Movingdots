@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
         //koordináta: (10;10)
 
 
-    }    
+    }
 class SajátComponent extends JComponent {
     @Override
     public void paint(Graphics g) {
@@ -58,5 +58,6 @@ class SajátComponent extends JComponent {
 
         
     }
+
 }
 }
